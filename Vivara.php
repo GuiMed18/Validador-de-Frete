@@ -2,7 +2,7 @@
 
 $possui_cartao_loja = true;
 $valor_compra = 450;
-$nome_cli = "Giselinha";
+$nome_cli = "Guilherme";
 
 if($possui_cartao_loja && $valor_compra >= 500){
 	$frete = 0;
